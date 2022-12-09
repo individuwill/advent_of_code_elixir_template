@@ -14,7 +14,7 @@ $ mix archive.install hex mix_generator
 Install this template from github
 
 ```bash
-mix template.install https://github.com/individuwill/advent_of_code_elixir_template
+mix template.install github individuwill/advent_of_code_elixir_template branch main
 ```
 
 ## Usage
